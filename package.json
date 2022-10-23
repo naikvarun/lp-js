@@ -1,0 +1,7 @@
+{
+  "name": "lp-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Varun Naik <naik.varun@gmail.com>",
+  "license": "MIT"
+}
